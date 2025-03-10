@@ -1,0 +1,59 @@
+# =============== #
+# Unity Generated #
+# =============== #
+/Library/
+# Cache files
+/Temp/
+# Intermediate build files
+/Obj/
+# Build output
+/Builds/
+# User-specific settings
+/UserSettings/
+# Logs
+/Logs/
+# Rider project files
+.idea/
+.vscode/
+
+# ========== #
+# Unity Misc #
+# ========== #
+# Ignore crash reports
+CrashReports/
+# Unity plugin data
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# ================== #
+# Visual Studio/JetBrains #
+# ================== #
+*.sln
+*.csproj
+*.unityproj
+*.asset
+*.tmp
+*.log
+*.bak
+*.swp
+*.lock
+*.exld
+
+# ============= #
+# Unity Packages #
+# ============= #
+/ProjectSettings/
+/Packages/
+
+# ============= #
+# Mac and Linux #
+# ============= #
+.DS_Store
+._*
+/.vs/
